@@ -1,10 +1,10 @@
 # [level 0] 모음 제거 - 120849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849) 
 
 ### 성능 요약
 
-메모리: 11.3 MB, 시간: 0.00 ms
+메모리: 43.3 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 08월 12일 18:44:39
+2026년 10월 22일 08:04:54
 
 ### 문제 설명
 
